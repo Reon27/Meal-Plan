@@ -1,5 +1,0 @@
-{
-  "name": "Refrigerator Concierge (冷蔵庫コンシェルジュ)",
-  "description": "A menu-planning app that suggests recipes based on ingredients you have at home, tailored for Japanese households. It helps users answer 'What should I cook?' by providing personalized meal ideas and reducing food waste.",
-  "requestFramePermissions": []
-}
