@@ -1,0 +1,5 @@
+{
+  "name": "Kondate AI: Smart Meal Planner",
+  "description": "An AI-powered meal planning application that suggests personalized recipes based on your fridge inventory, dietary needs (diet, pregnancy), and preferences. It helps reduce food waste and makes daily cooking easier and more enjoyable.",
+  "requestFramePermissions": []
+}
